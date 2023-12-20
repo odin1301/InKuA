@@ -50,6 +50,7 @@ This platform serves as a crucial solution for scholarship students facing displ
 • [Pons Toloza, Florencia](https://github.com/FlorPons)  
 • [Soria, Julio Ezequiel](https://github.com/kelo72)   
 • [Soriano, Marlene](https://github.com/Marlenesoriano)
+
 • [Videla, Franco](https://github.com/odin1301)
 
 
